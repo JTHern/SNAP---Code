@@ -40,4 +40,5 @@ EIGRP - prints the output of [show ip eigrp neigh] to the Snap Screen.
 
 # About
 
-Generic information
+Dependencies:
+Netmiko (and all of its dependencies), PyQT5.
