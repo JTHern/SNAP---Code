@@ -29,7 +29,7 @@ If you want to completely erase the Cisco Router there is also a Zeroize feature
 
 # Troubleshoot
 
-ping [Enter the ip into the empty field] - Pings from the Cisco Router, not your machine.
+ping [Enter the ip into the empty field] - Pings from the Cisco Router, not your machine.  
 Traceroute [Enter the ip into the empty field] - Traceroutes from the Cisco router, not your machine.
 
 Routes - prints the output of [show ip route] to the Snap Screen.
