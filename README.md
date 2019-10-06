@@ -18,7 +18,7 @@ This will then use the credentials on the device.
 It will automatically make sure the Cisco Router is above IOS 15.4 (this was for my use but it wont affect anything.)
 
 # Load Page:
-
+![snap](https://github.com/JTHern/SNAP---Dist/blob/master/images/Snap2.PNG)
 * Make sure the config does not have conf t, enable, building.., or end in it.
 
 Click open to select the config you want to load. Then Click Load, watch as the config loads line by line.
@@ -28,7 +28,7 @@ Or pull the current config on the device. (This will automatically save the conf
 If you want to completely erase the Cisco Router there is also a Zeroize feature. (This was useful for me because reasons.)
 
 # Troubleshoot
-
+![snap](https://github.com/JTHern/SNAP---Dist/blob/master/images/Snap3.PNG)
 ping [Enter the ip into the empty field] - Pings from the Cisco Router, not your machine.  
 Traceroute [Enter the ip into the empty field] - Traceroutes from the Cisco router, not your machine.
 
